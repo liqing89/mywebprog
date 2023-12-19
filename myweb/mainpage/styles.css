@@ -1,0 +1,76 @@
+
+
+.topContainer{
+    margin:40px;
+    width:300px;
+    margin-top:30px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto; 
+    /* background-color: antiquewhite; */
+}
+
+.title{
+    text-align:center;
+    color:#274593;
+    font-style:oblique;
+}
+
+.logopic{
+    width:500px;
+    /* background:lightblue; */
+    display:block;
+    /* 居中显示 */
+    margin-top:0%;
+    margin-left:auto;
+    margin-right:auto; 
+}
+
+
+.logo{
+    width:300px;
+    /* 居中显示 */
+    padding:50px;
+    padding-top:0px;
+    padding-bottom: 0px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto; 
+}
+
+.fullnames{
+    width:100%;
+}
+
+.fullname{
+    font-size:10px;
+    width:50%;
+    color: #234563;
+    /* 居中显示 */
+    display:block;
+    margin-left:auto;
+    margin-right:auto; 
+    text-align: center;
+}
+
+.ourmembers{
+    width:100%;
+    height:30px;
+    text-align:center;
+}
+
+
+.group{
+    display:flex;
+    justify-content:space-around;
+    height:50px;
+
+}
+
+.name{
+    width:25%;
+    height:80%;
+    border-style: none;
+    border-radius: 10px;
+    
+}
